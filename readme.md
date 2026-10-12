@@ -45,7 +45,7 @@ Ce projet est divisé en 3 notebooks progressifs :
 
 ## Comment lancer le projet
 
-1. Clonez ce dépôt sur votre machine locale.
+1. Clonez le dépôt sur votre machine locale.
 2. Créez un environnement virtuel (`.venv`).
 3. Installez les dépendances requises :
    ```bash
